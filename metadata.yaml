@@ -40,6 +40,8 @@ creator:
     gutenberg_agent_id: '31945'
     url: http://www.gutenberg.org/2009/agents/31945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38779#Translations-from-the-German--Vol-3-of-3-Tales-by-Musaeus-Tieck-Richter
 gutenberg_issued: '2012-02-06'
 gutenberg_type: Text
 identifiers:
